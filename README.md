@@ -21,6 +21,8 @@ TaskAppBackend is a backend service for managing tasks in a task management appl
 
 - Java 8 or higher installed
 - Maven installed
-- MySQL database running
+- MySQL database
+
+
 
 
